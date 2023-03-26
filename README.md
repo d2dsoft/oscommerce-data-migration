@@ -8,6 +8,7 @@
 - [Drupal Commerce to osCommerce Migration](https://d2d-soft.com/oscommerce-migration/362-drupal-commerce-to-oscommerce-migration-service.html)
 - [HikaShop to osCommerce Migration](https://d2d-soft.com/oscommerce-migration/459-1892-hikashop-to-oscommerce-migration-tool.html#/72-entities-1000)
 - [J2Store to osCommerce Migration](https://d2d-soft.com/oscommerce-migration/502-2087-j2store-to-oscommerce-migration-tool.html#/72-entities-1000)
+- [JigoShop to osCommerce Migration](https://d2d-soft.com/oscommerce-migration/548-2297-jigoshop-to-oscommerce-migration-tool.html#/72-entities-1000)
 - [Loaded Commerce to osCommerce Migration](https://d2d-soft.com/oscommerce-migration/163-732-loaded-to-oscommerce-migration-tool.html)
 - [Magento to osCommerce Migration](https://d2d-soft.com/oscommerce-migration/164-737-magento-to-oscommerce-migration-tool.html)
 - [OpenCart to osCommerce Migration](https://d2d-soft.com/oscommerce-migration/165-742-opencart-to-oscommerce-migration-tool.html)
@@ -29,6 +30,7 @@
 - [Drupal Commerce](https://drupalcommerce.org/)
 - [HikaShop](https://www.hikashop.com/)
 - [J2Store](https://www.j2store.org/)
+- JigoShop
 - [Loaded Commerce](https://loadedcommerce.com/)
 - [Magento](https://magento.com/)
 - [OpenCart](https://www.opencart.com/)
