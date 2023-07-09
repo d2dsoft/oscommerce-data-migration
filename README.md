@@ -2,6 +2,7 @@
 [osCommerce Data Migration Tool](https://d2d-soft.com/20-oscommerce-migration) is a solution for migrating data to osCommerce from another platform. The tool support migrating many entity types (taxes, manufacturers, categories, products, customers, orders, reviews) with many options. The tool can work in the local environment or the online environment. We also provide the [Custom Migration Service](https://d2d-soft.com/migration-services/296-data-migration-customization.html) if you have a specific requirement. 
 
 ## Products
+- [AmeriCommerce to osCommerce Migration](https://d2d-soft.com/oscommerce-migration/775-7252-americommerce-to-oscommerce-migration-tool.html#/72-entities-1000)
 - [BigCommerce to osCommerce Migration](https://d2d-soft.com/oscommerce-migration/419-1697-bigcommerce-to-oscommerce-migration-tool.html#/72-entities-1000)
 - [CS-Cart to osCommerce Migration](https://d2d-soft.com/oscommerce-migration/333-1432-cs-cart-to-oscommerce-migration-tool.html#/72-entities-1000)
 - [CubeCart to osCommerce Migration](https://d2d-soft.com/oscommerce-migration/161-727-cubecart-to-oscommerce-migration-tool.html)
@@ -17,6 +18,7 @@
 - [osCommerce to osCommerce Migration](https://d2d-soft.com/oscommerce-migration/166-747-oscommerce-to-oscommerce-migration-tool.html)
 - [OXID-eShop to osCommerce Migration](https://d2d-soft.com/oscommerce-migration/167-752-oxid-eshop-to-oscommerce-migration-tool.html)
 - [PrestaShop to osCommerce Migration](https://d2d-soft.com/oscommerce-migration/168-757-prestashop-to-oscommerce-migration-tool.html)
+- [Salesforce to osCommerce Migration](https://d2d-soft.com/oscommerce-migration/724-6792-salesforce-to-oscommerce-migration-tool.html#/72-entities-1000)
 - [Shopify to osCommerce Migration](https://d2d-soft.com/oscommerce-migration/382-1517-shopify-to-oscommerce-migration-tool.html#/72-entities-1000)
 - [VirtueMart to osCommerce Migration](https://d2d-soft.com/oscommerce-migration/169-762-virtuemart-to-oscommerce-migration-tool.html#/72-entities-1000)
 - [Volusion to osCommerce Migration](https://d2d-soft.com/oscommerce-migration/647-5989-volusion-to-oscommerce-migration-tool.html#/72-entities-1000)
@@ -28,6 +30,7 @@
 - [ZenCart to osCommerce Migration](https://d2d-soft.com/oscommerce-migration/174-787-zencart-to-oscommerce-migration-tool.html#/72-entities-1000)
 
 ## Supported Platforms
+- [AmeriCommerce](https://www.americommerce.com/)
 - [BigCommerce](https://www.bigcommerce.com/)
 - [CS-Cart](https://www.cs-cart.com/)
 - [CubeCart](https://www.cubecart.com/)
@@ -43,6 +46,7 @@
 - [osCommerce](https://www.oscommerce.com/)
 - [OXID-eShop](https://www.oxid-esales.com)
 - [PrestaShop](https://www.prestashop.com)
+- [Salesforce](https://www.salesforce.com/)
 - [Shopify](https://www.shopify.com/)
 - [VirtueMart](https://virtuemart.net/)
 - [Volusion](https://volusion.com/)
