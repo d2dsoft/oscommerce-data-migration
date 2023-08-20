@@ -12,6 +12,7 @@
 - [J2Store to osCommerce Migration](https://d2d-soft.com/oscommerce-migration/502-2087-j2store-to-oscommerce-migration-tool.html#/72-entities-1000)
 - [JigoShop to osCommerce Migration](https://d2d-soft.com/oscommerce-migration/548-2297-jigoshop-to-oscommerce-migration-tool.html#/72-entities-1000)
 - [JoomShopping to osCommerce Migration](https://d2d-soft.com/oscommerce-migration/598-2537-joomshopping-to-oscommerce-migration-tool.html#/72-entities-1000)
+- [LiteCart to osCommerce Migration](https://d2d-soft.com/oscommerce-migration/883-8366-litecart-to-oscommerce-migration-tool.html#/72-entities-1000)
 - [Loaded Commerce to osCommerce Migration](https://d2d-soft.com/oscommerce-migration/163-732-loaded-to-oscommerce-migration-tool.html)
 - [Magento to osCommerce Migration](https://d2d-soft.com/oscommerce-migration/164-737-magento-to-oscommerce-migration-tool.html)
 - [MarketPress to osCommerce Migration](https://d2d-soft.com/oscommerce-migration/573-2417-marketpress-to-oscommerce-migration-tool.html#/72-entities-1000)
@@ -42,6 +43,7 @@
 - [J2Store](https://www.j2store.org/)
 - JigoShop
 - [JoomShopping](https://extensions.joomla.org/extension/joomshopping/)
+- [LiteCart](https://www.litecart.net/)
 - [Loaded Commerce](https://loadedcommerce.com/)
 - [Magento](https://magento.com/)
 - MarketPress
