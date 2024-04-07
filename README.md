@@ -29,6 +29,7 @@
 - [ShopSite to osCommerce Migration](https://d2d-soft.com/oscommerce-migration/856-8080-shopsite-to-oscommerce-migration-tool.html#/72-entities-1000)
 - [Shopware to osCommerce Migration](https://d2d-soft.com/oscommerce-migration/1065-10207-shopware-to-oscommerce-migration-tool.html#/72-entities-1000)
 - [TomatoCart to osCommerce Migration](https://d2d-soft.com/oscommerce-migration/1228-11891-tomatocart-to-oscommerce-migration-tool.html#/72-entities-1000)
+- [UberCart to osCommerce Migration](https://d2d-soft.com/oscommerce-migration/1260-12232-ubercart-to-oscommerce-migration-tool.html#/72-entities-1000)
 - [VirtueMart to osCommerce Migration](https://d2d-soft.com/oscommerce-migration/169-762-virtuemart-to-oscommerce-migration-tool.html#/72-entities-1000)
 - [Volusion to osCommerce Migration](https://d2d-soft.com/oscommerce-migration/647-5989-volusion-to-oscommerce-migration-tool.html#/72-entities-1000)
 - [WooCommerce to osCommerce Migration](https://d2d-soft.com/oscommerce-migration/170-767-woocommerce-to-oscommerce-migration-tool.html#/72-entities-1000)
@@ -66,6 +67,7 @@
 - [ShopSite](https://www.shopsite.com/)
 - [Shopware](https://www.shopware.com/)
 - TomatoCart
+- UberCart
 - [VirtueMart](https://virtuemart.net/)
 - [Volusion](https://volusion.com/)
 - [WooCommerce](https://woocommerce.com/)
